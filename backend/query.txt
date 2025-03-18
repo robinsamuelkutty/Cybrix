@@ -1,0 +1,15 @@
+Hoodie,Black,Cotton
+Joggers,Dark Grey,Polyster Cotton
+Button-Down Shirt,Navy Blue,Linnen cotton
+Slim-Fit Jeans,Black,Denim
+T-Shirt,Gray,Moisture-Wicking Fabric
+Oversized T-Shirt,White,Cotton
+Cargo Pants,Light_brown,Cotton
+Water-Resistant Windbreaker,Dark_blue,Nylon-Polyster
+Sustainable Bamboo Fiber Polo Shirt,Olive Green,Sustainable Bamboo Fiber
+Fleece-Lined Tech Jacket,Charcoal Black,Polyster
+
+Temperature : 27.57
+Climate :moderate rain
+
+The output must contain exactly three lines. The first line should start with 'Office Wear:' followed by the recommended clothes for office wear. The second line should start with 'Casual Wear:' followed by the recommended clothes for casual wear. The third line should start with 'Party Wear:' followed by the recommended clothes for party wear. No extra lines or missing lines are allowed. The format should strictly follow the pattern:  i need to use your repsonse to extract the result as a api call so please follow the forma do not use md fromat
